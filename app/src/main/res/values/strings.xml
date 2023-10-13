@@ -15,4 +15,15 @@
     <string name="txt_select_color">Seleccionar color</string>
     <string name="txt_color">Color</string>
     <string name="txt_save_category">Se guardo la categoria</string>
+    <string name="correo_electronico">Correo electrónico</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="iniciar_sesion">Iniciar Sesión</string>
+    <string name="no_eres_un_usuario">¿No eres un usuario?</string>
+    <string name="registrate">Registrate</string>
+    <string name="ya_tienes_cuenta">¿Ya tienes cuenta?</string>
+    <string name="crear_cuenta">Crear cuenta</string>
+    <string name="confirmar_contrasena">Confirmar contraseña</string>
+    <string name="edad">Edad</string>
+    <string name="apellido">Apellido</string>
+    <string name="nombre">Nombre</string>
 </resources>
