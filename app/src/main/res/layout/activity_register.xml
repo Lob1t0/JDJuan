@@ -27,7 +27,7 @@
         android:layout_width="0dp"
         android:layout_height="0dp"
         android:layout_marginTop="60dp"
-        android:background="@drawable/body_activity"
+        android:background="@color/white"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
